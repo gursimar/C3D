@@ -117,7 +117,7 @@ LIBRARIES := cudart cublas curand \
 	pthread \
 	glog protobuf leveldb snappy \
 	boost_system \
-	hdf5_hl hdf5 \
+	hdf5_serial_hl hdf5_serial \
 	opencv_core opencv_highgui opencv_imgproc #\
 	#mat mx
 
